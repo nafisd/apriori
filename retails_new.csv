@@ -1,0 +1,201 @@
+Transaction_ID,Customer_Name,Product,Total_Items,Total_Cost
+1000000000,Cheyenne Newman,['Hair Gel'],6,12.77
+1000000001,Emily Fitzgerald,"['Tuna', 'Bread', 'Tissues', 'Trash Bags']",5,13.88
+1000000002,Michael Webb,"['Jam', 'Soap', 'Ketchup']",7,47.02
+1000000003,Kimberly Lin,['BBQ Sauce'],9,83.86
+1000000004,Cathy Hernandez,"['Hand Sanitizer', 'Bread', 'Extension Cords', 'Ice Cream', 'Hand Sanitizer']",4,30.55
+1000000005,Elizabeth Cook,"['Shower Gel', 'Baby Wipes', 'Banana', 'Paper Towels']",10,30.19
+1000000006,Kara Bradley,"['Cereal', 'Tuna']",3,5.57
+1000000007,Carla Hernandez,"['Iron', 'Extension Cords', 'Eggs', 'Iron', 'Tuna']",1,7.15
+1000000008,Christopher Wang,"['Banana', 'Pickles']",2,20.04
+1000000009,Alisha Hudson,"['Ketchup', 'Razors', 'Lawn Mower']",3,88.79
+1000000010,Samantha Mcclure,"['Shrimp', 'Soda']",3,28.43
+1000000011,Shari Thomas,"['Soap', 'Vacuum Cleaner', 'Shower Gel', 'Mayonnaise']",9,69.48
+1000000012,David Randolph,"['BBQ Sauce', 'Soda', 'Lawn Mower']",9,21.29
+1000000013,Maria Munoz,"['Ironing Board', 'Laundry Detergent', 'Deodorant', 'Cereal']",2,47.49
+1000000014,Christopher Barnett,"['Lawn Mower', 'Tea']",8,15.67
+1000000015,Jonathan Roach,['Syrup'],9,43.35
+1000000016,Alexander Hall,"['Tea', 'Spinach', 'Mustard', 'Cleaning Rags', 'Peanut Butter']",9,5.3
+1000000017,Bryan Smith,"['Tuna', 'Bath Towels', 'Potatoes']",8,64.76
+1000000018,Kayla Sanchez,"['Syrup', 'Yogurt', 'Eggs']",5,78.64
+1000000019,Adam Foster,['Eggs'],1,60.29
+1000000020,Nancy Mcdonald,"['Eggs', 'Razors', 'Peanut Butter', 'Toothpaste', 'Cheese']",7,98.81
+1000000021,Mary Chandler,"['Shrimp', 'Milk', 'Dish Soap']",4,16.62
+1000000022,Kimberly Baird,"['Cereal', 'Water', 'Bread', 'Laundry Detergent']",5,28.99
+1000000023,Jonathan Campbell,"['Insect Repellent', 'Soda', 'Laundry Detergent']",4,93.1
+1000000024,Larry Stephens,"['Dishware', 'Plant Fertilizer', 'Hair Gel', 'Apple', 'Toothpaste']",5,28.31
+1000000025,Jonathan Cross,"['Extension Cords', 'Orange']",10,71.56
+1000000026,Michael Powers,"['Pasta', 'Soda', 'Chips', 'Apple', 'Sponges']",6,75.45
+1000000027,Katrina Martin,"['Salmon', 'Dustpan']",7,86.02
+1000000028,James Allen,"['Feminine Hygiene Products', 'Light Bulbs']",5,18.69
+1000000029,David Jordan,['Pancake Mix'],3,52.58
+1000000030,Kimberly Carlson,"['Trash Bags', 'Cheese', 'Toilet Paper', 'Insect Repellent']",4,9.33
+1000000031,Joshua Butler,['Vacuum Cleaner'],6,37.15
+1000000032,Steve Jimenez,"['Potatoes', 'Olive Oil', 'Laundry Detergent', 'Banana']",6,31.03
+1000000033,Desiree Diaz,"['Toilet Paper', 'Sponges', 'Yogurt', 'Syrup']",3,44.04
+1000000034,Ryan King,"['Pasta', 'Ice Cream', 'Pancake Mix', 'Vinegar', 'Onions']",6,18.49
+1000000035,Russell Hayes,"['Apple', 'Cereal Bars']",10,77.66
+1000000036,Christine Wells,['Rice'],7,14.35
+1000000037,Cathy Smith,"['Milk', 'Shower Gel']",4,12.46
+1000000038,Randy Beck,['Pickles'],5,86.11
+1000000039,Joanne Wood,"['Dustpan', 'Shower Gel', 'Beef', 'Broom']",10,45.07
+1000000040,Joseph Williamson,"['Pasta', 'Trash Bags', 'Orange', 'Rice', 'Tea']",4,19.32
+1000000041,Makayla Moore,"['Laundry Detergent', 'Extension Cords']",6,19.96
+1000000042,Jennifer Bailey,"['Toilet Paper', 'Shower Gel', 'Deodorant']",6,78.04
+1000000043,Angela Johnson,"['Toothpaste', 'Ice Cream']",7,8.91
+1000000044,Lisa Harper,"['Broom', 'Shrimp', 'Toothpaste', 'Shower Gel', 'Dishware']",9,97.61
+1000000045,Pamela Duffy,"['Plant Fertilizer', 'Power Strips', 'Beef', 'Mayonnaise']",9,88.65
+1000000046,Michelle Foster,"['Power Strips', 'Soda']",5,44.08
+1000000047,Tina Combs,"['Toothpaste', 'Toothbrush']",8,73.28
+1000000048,Anthony Ray,"['Onions', 'Garden Hose', 'Vacuum Cleaner', 'Cereal Bars']",4,10.26
+1000000049,Brianna Johnson,"['Onions', 'Canned Soup']",2,47.37
+1000000050,Justin Smith,"['Feminine Hygiene Products', 'Hair Gel']",10,22.07
+1000000051,Tonya Moreno,"['Soap', 'Apple', 'Butter', 'Pasta']",7,45.6
+1000000052,Hannah Foley,"['Baby Wipes', 'Cereal', 'Shower Gel', 'Tuna', 'Soda']",8,79.34
+1000000053,Katie Whitney,['Diapers'],2,38.38
+1000000054,Amanda Jones,['Spinach'],9,39.12
+1000000055,Cory Jensen,"['Orange', 'Shower Gel', 'Insect Repellent', 'Hair Gel']",9,50.25
+1000000056,Jamie Brown,['Paper Towels'],6,77.82
+1000000057,Ryan Reyes,['Trash Bags'],1,60.31
+1000000058,Jessica Mooney,"['Onions', 'Broom', 'Iron']",9,98.39
+1000000059,Heidi May,"['Razors', 'Water']",9,64.91
+1000000060,Anthony Richard,"['Orange', 'Diapers', 'Vinegar']",5,7.65
+1000000061,Sarah Gross,"['Bath Towels', 'Ironing Board', 'Rice']",9,11.45
+1000000062,Susan Robinson,['Carrots'],9,18.11
+1000000063,Cynthia Mendoza,"['Apple', 'Shampoo', 'Tissues', 'Power Strips']",3,10.01
+1000000064,Zachary James,"['Onions', 'Sponges']",8,65.94
+1000000065,Marissa Scott,['Apple'],10,28.37
+1000000066,Jacqueline Mclean DVM,"['Shaving Cream', 'Pasta', 'Cleaning Spray', 'Rice', 'Onions']",10,40.02
+1000000067,Krista Stewart,"['Ketchup', 'Salmon', 'Banana', 'Olive Oil', 'Eggs']",2,66.84
+1000000068,Mike Taylor,['Shaving Cream'],7,39.3
+1000000069,Heather Johnson,"['Trash Cans', 'Diapers']",1,63.22
+1000000070,Tiffany Ramirez,['Carrots'],2,38.61
+1000000071,James Taylor,"['Deodorant', 'Tuna', 'Bread']",1,8.4
+1000000072,Gabriela Bryan,"['Paper Towels', 'Pickles', 'Eggs', 'Shower Gel', 'Pasta']",2,12.6
+1000000073,Janet Hogan MD,"['Air Freshener', 'Ironing Board', 'Yogurt']",2,55.59
+1000000074,David Burton,"['Cereal', 'Broom']",8,39.73
+1000000075,Jessica Cohen,"['Trash Bags', 'Canned Soup', 'Tea']",7,42
+1000000076,Katherine Martin,"['Broom', 'Salmon']",5,11.08
+1000000077,Amy Larsen,"['Sponges', 'Cheese']",3,89.95
+1000000078,Adrienne Mitchell,['Plant Fertilizer'],8,85.92
+1000000079,Michael Murphy,"['Dustpan', 'Potatoes', 'Razors', 'Hair Gel', 'Dishware']",10,20.75
+1000000080,Benjamin Walls,"['Sponges', 'Honey', 'Butter', 'Coffee']",3,9.39
+1000000081,Steven Valdez,"['Dishware', 'Dish Soap', 'Banana', 'Shrimp', 'Shower Gel']",10,93.3
+1000000082,Craig Cook,"['Chicken', 'Toilet Paper', 'Vinegar', 'Chips']",8,93.29
+1000000083,Amanda Burns MD,"['Ketchup', 'Razors', 'Plant Fertilizer']",6,70.8
+1000000084,Gregory Stevens,"['Light Bulbs', 'Pancake Mix', 'Beef']",5,11.03
+1000000085,Jennifer Allen,"['Spinach', 'Garden Hose', 'Mustard', 'Shampoo', 'Mayonnaise']",1,72.68
+1000000086,Heather Leonard,"['Canned Soup', 'Tea', 'Vacuum Cleaner']",4,47.11
+1000000087,Dr. Christy Velasquez,"['Hair Gel', 'Pasta', 'Dishware']",8,37.87
+1000000088,Jasmin Oconnell,"['Plant Fertilizer', 'Mop', 'Bread', 'Salmon', 'Spinach']",5,77.83
+1000000089,Jasmine Hull,"['Feminine Hygiene Products', 'Shrimp', 'Orange']",9,70.97
+1000000090,Grace Duran,"['Shaving Cream', 'Iron', 'Toothpaste', 'Soda']",8,93
+1000000091,Lauren Wilson,"['Vinegar', 'Cheese', 'Onions', 'Canned Soup']",7,92.95
+1000000092,Amber Wise,"['Dustpan', 'Iron']",7,96.79
+1000000093,Daniel Thompson,"['Hair Gel', 'Tissues', 'Iron']",2,73.79
+1000000094,Kayla Navarro,"['Toothbrush', 'Garden Hose']",7,61.08
+1000000095,Sarah Moore DDS,['Plant Fertilizer'],6,24.98
+1000000096,Benjamin Johnson,"['Syrup', 'Soda', 'Shrimp', 'Soap']",5,41.13
+1000000097,Erin Parker,"['Shampoo', 'Toothbrush']",1,39.32
+1000000098,Cynthia Garcia,"['Banana', 'Chicken', 'Tomatoes', 'Dish Soap']",9,10.72
+1000000099,Eduardo Brown,"['Shaving Cream', 'Bread']",8,7.08
+1000000100,Kristen Owens,"['Pickles', 'Chips']",3,83.53
+1000000101,Luis Martin,"['Razors', 'Rice']",1,85.78
+1000000102,Stephen Huffman,"['Plant Fertilizer', 'Chicken', 'Ironing Board', 'Diapers']",7,89.24
+1000000103,Aaron Pham,"['Light Bulbs', 'Chips']",6,13.32
+1000000104,Michelle Hughes,"['Bread', 'Cereal Bars']",2,9.37
+1000000105,Bonnie Henderson,"['Vacuum Cleaner', 'Diapers', 'Water', 'Ironing Board']",3,11.65
+1000000106,Kaitlin Watkins,"['Eggs', 'Diapers']",5,80.22
+1000000107,John Reed,"['Vacuum Cleaner', 'Power Strips', 'Trash Cans']",3,23.03
+1000000108,Manuel Dickson,"['Shampoo', 'Baby Wipes', 'Cleaning Spray']",8,97.46
+1000000109,John Tucker,['Cereal'],8,19.57
+1000000110,Maria Williams,"['Yogurt', 'Canned Soup', 'Pancake Mix', 'Butter']",9,50.07
+1000000111,Thomas Johnson,"['Dustpan', 'Hand Sanitizer']",3,45.72
+1000000112,Steven Parker,"['Shower Gel', 'Cereal Bars', 'Cheese', 'Cereal Bars', 'Paper Towels']",3,71.9
+1000000113,Scott Rodriguez,['Bath Towels'],1,14.94
+1000000114,Timothy Payne,"['Rice', 'Mop', 'Olive Oil', 'Chips']",4,58.21
+1000000115,Angela Holder,"['Bread', 'Ice Cream', 'Broom', 'Broom', 'Shampoo']",3,24.07
+1000000116,Jennifer Martin,"['Bath Towels', 'Ice Cream', 'Vacuum Cleaner', 'Chicken', 'Salmon']",3,30.45
+1000000117,Chris Jones,"['Water', 'Mayonnaise']",2,92.03
+1000000118,Kelly Reed,"['Iron', 'Toothpaste']",4,32.11
+1000000119,Stephanie Mcdaniel,['Extension Cords'],7,73.58
+1000000120,Daniel Cruz,"['Eggs', 'Bath Towels', 'Plant Fertilizer']",1,61.35
+1000000121,James Thomas,"['Cereal', 'Onions', 'Tuna', 'Coffee', 'Orange']",3,70.85
+1000000122,Courtney Taylor,"['Baby Wipes', 'Beef', 'Insect Repellent', 'Hair Gel', 'Garden Hose']",3,35.83
+1000000123,Vincent Vargas,"['Mop', 'Ketchup', 'Rice', 'Mayonnaise']",1,98.06
+1000000124,Holly Maldonado,"['Hair Gel', 'Carrots', 'Bath Towels', 'Plant Fertilizer', 'Deodorant']",8,92.57
+1000000125,Rhonda Harris,"['Cereal Bars', 'Canned Soup', 'Toothpaste']",6,61.33
+1000000126,John Fisher,"['Tuna', 'Hand Sanitizer']",2,94.37
+1000000127,Amy Edwards,"['Cereal', 'Mustard', 'Toothbrush', 'Soap']",4,75.68
+1000000128,Katherine Briggs,"['Salmon', 'Cereal', 'Paper Towels', 'Bath Towels']",3,71.07
+1000000129,Richard Gregory,"['Bath Towels', 'Ironing Board', 'Bath Towels', 'Toothpaste', 'Cleaning Rags']",6,83.82
+1000000130,Kristi Ray,"['Canned Soup', 'Beef', 'Mustard', 'Yogurt']",8,74.71
+1000000131,Amy Baker,"['Syrup', 'Soap', 'Feminine Hygiene Products']",7,22.45
+1000000132,Angela Smith,"['Water', 'Canned Soup']",9,87.31
+1000000133,Karen Carpenter DVM,"['Plant Fertilizer', 'Light Bulbs', 'Shower Gel']",3,72.64
+1000000134,Mr. Paul Owens,"['Tuna', 'Milk', 'Baby Wipes', 'Onions', 'Peanut Butter']",2,14.45
+1000000135,Teresa Phillips,"['Laundry Detergent', 'Olive Oil', 'Peanut Butter', 'Dishware', 'Pickles']",8,14.78
+1000000136,Rebecca Graham,"['Butter', 'Shower Gel', 'Bread']",8,54.17
+1000000137,Elizabeth Summers,['Ironing Board'],4,56.22
+1000000138,Alyssa Zuniga,"['Diapers', 'Air Freshener', 'Rice']",8,88.18
+1000000139,Daniel Thomas,"['Coffee', 'Soda', 'Pasta', 'Toothbrush', 'Canned Soup']",2,86.66
+1000000140,Tony Love,"['Honey', 'Mustard', 'Deodorant']",9,53.69
+1000000141,James Ponce,"['Chicken', 'Olive Oil', 'Chicken']",1,72.3
+1000000142,Kimberly Cole,"['Tissues', 'Shower Gel', 'Canned Soup', 'Light Bulbs']",4,61.2
+1000000143,Kevin Sosa,"['Tea', 'Garden Hose', 'Soap', 'Extension Cords']",5,60.6
+1000000144,Dr. Daniel Davidson,"['Shrimp', 'Baby Wipes']",7,73.37
+1000000145,Angelica Barker,"['Laundry Detergent', 'Ironing Board', 'Garden Hose', 'BBQ Sauce', 'Soap']",9,91.26
+1000000146,Crystal Wright,"['Olive Oil', 'Diapers', 'Vacuum Cleaner', 'Mustard', 'Vacuum Cleaner']",9,63.93
+1000000147,Denise Clements,"['Trash Bags', 'Soda', 'Eggs', 'Deodorant', 'Pancake Mix']",4,81.39
+1000000148,Brian West,"['Chicken', 'BBQ Sauce', 'Mustard', 'Apple']",5,58.26
+1000000149,Harold Myers,"['Ironing Board', 'Chicken', 'Cleaning Rags', 'Bread']",10,11.44
+1000000150,Michelle Smith,"['Sponges', 'Spinach', 'Vinegar']",2,11.95
+1000000151,Peter Sanchez,"['Toothpaste', 'Iron', 'Water']",1,66.85
+1000000152,Matthew Torres,"['BBQ Sauce', 'Olive Oil', 'Yogurt', 'Potatoes', 'Power Strips']",9,71.04
+1000000153,Danielle Hall,"['Carrots', 'Mayonnaise']",4,88.95
+1000000154,Nathan Miller,"['Dustpan', 'Air Freshener', 'Yogurt', 'Chicken']",9,58.18
+1000000155,Eric Duarte,"['Mustard', 'Banana', 'Diapers', 'Air Freshener', 'Potatoes']",5,29.02
+1000000156,Angelica Savage,['Soap'],5,61.24
+1000000157,Bradley Wright,"['Lawn Mower', 'Paper Towels', 'Mustard', 'Apple']",4,80.34
+1000000158,Miranda Gilmore,"['Tea', 'Bread', 'Paper Towels', 'Soap']",5,79.32
+1000000159,Maria Perry,"['Coffee', 'Honey', 'Trash Cans', 'Toilet Paper', 'Beef']",4,92.78
+1000000160,Edward Jones,"['Dustpan', 'Vacuum Cleaner']",8,88.05
+1000000161,Justin Johnson,['Shrimp'],9,46.67
+1000000162,Ariel Stokes,"['Toothpaste', 'Hair Gel', 'Trash Bags', 'Rice', 'Tuna']",1,85.32
+1000000163,Chase Brewer,"['Hand Sanitizer', 'BBQ Sauce', 'Toothpaste', 'Lawn Mower', 'Razors']",4,47.19
+1000000164,Rodney Martin,"['Soda', 'Shampoo']",4,9.02
+1000000165,Dalton Davis,"['Toothbrush', 'Shower Gel', 'Potatoes']",3,33.51
+1000000166,Nicole Boyd,"['Trash Cans', 'Dish Soap', 'Pickles', 'Toothbrush']",3,96.23
+1000000167,Kelly Williams,"['Bath Towels', 'Dish Soap', 'Salmon', 'Toothpaste', 'Eggs']",4,38.35
+1000000168,Peter Bender,['Light Bulbs'],9,75.31
+1000000169,Crystal Henson,"['Soda', 'Bath Towels', 'Insect Repellent', 'Extension Cords', 'Butter']",4,82.31
+1000000170,Nathan Barnett,['Cleaning Spray'],5,77.84
+1000000171,Kimberly Perry,"['Shaving Cream', 'Vacuum Cleaner', 'Broom', 'Toilet Paper', 'Cleaning Rags']",3,98.13
+1000000172,Linda Kaufman,"['Iron', 'Chicken']",4,48.55
+1000000173,Diana Odonnell MD,"['Lawn Mower', 'Chips', 'Onions', 'Razors']",7,82.84
+1000000174,Daniel Miller,"['Milk', 'Garden Hose', 'Toothpaste', 'Shampoo', 'Plant Fertilizer']",10,64.69
+1000000175,Tammy Moody,"['Coffee', 'Mop', 'Extension Cords', 'Coffee', 'Tuna']",4,15.59
+1000000176,Sara Williamson,['Plant Fertilizer'],5,35.91
+1000000177,Tyler Turner,"['Hand Sanitizer', 'Ice Cream', 'Dustpan', 'Trash Cans', 'Shaving Cream']",4,82.76
+1000000178,Victor Gomez,"['Deodorant', 'Pickles', 'Toothbrush', 'Tea']",5,51.68
+1000000179,Adrienne Owens,['Peanut Butter'],7,25.81
+1000000180,David Burke,"['Chicken', 'Toilet Paper', 'Eggs', 'Dishware', 'Onions']",10,34.48
+1000000181,John Savage,"['Toilet Paper', 'Spinach', 'Insect Repellent']",6,99.68
+1000000182,Dawn Bradley,"['Cereal Bars', 'Paper Towels', 'Toothbrush']",10,58.25
+1000000183,Scott Olsen,"['Toothpaste', 'BBQ Sauce']",5,93.99
+1000000184,Erin Allen,"['Deodorant', 'Eggs', 'Carrots']",6,62.05
+1000000185,Mark Todd,"['Sponges', 'Air Freshener']",8,74.61
+1000000186,Lauren Dawson,"['Pickles', 'Cheese']",1,13.46
+1000000187,Jeremy Brown,"['Ironing Board', 'Dishware', 'Toothpaste', 'Vacuum Cleaner']",4,95.82
+1000000188,Angel Hudson,"['Toilet Paper', 'Pasta', 'Hand Sanitizer', 'Chips', 'BBQ Sauce']",10,67.27
+1000000189,Jasmine Young,"['Toothbrush', 'Cereal', 'Insect Repellent']",6,29.76
+1000000190,Ralph Elliott,"['Orange', 'Shrimp', 'Sponges', 'Spinach']",1,6.24
+1000000191,Samuel Hodges,"['Orange', 'Toothbrush']",4,74.03
+1000000192,Mary Richmond,"['Pickles', 'Insect Repellent']",9,30.79
+1000000193,Jeffrey Allen,"['Vinegar', 'Iron', 'Pickles']",2,17.41
+1000000194,Shannon Johns,"['Potatoes', 'Vacuum Cleaner', 'Tissues']",6,78.87
+1000000195,Tony Trevino,"['Mop', 'Pickles', 'Air Freshener', 'Hair Gel', 'Tomatoes']",1,87.37
+1000000196,Barbara Gordon,['Water'],3,75.73
+1000000197,Danielle Jones,"['Toilet Paper', 'Insect Repellent']",3,92.84
+1000000198,Mrs. Cynthia Williams,"['Hair Gel', 'Sponges', 'Ice Cream']",7,54.33
+1000000199,Julie Collins,"['Carrots', 'Cheese']",2,86.29

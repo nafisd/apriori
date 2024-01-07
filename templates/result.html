@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Market Basket Analysis Results</title>
+</head>
+<body>
+    <h1>Market Basket Analysis Results</h1>
+    <p>Frequent Itemsets (1-itemsets):</p>
+    <ul>
+        {% for _, row in freq_itemset1.iterrows() %}
+            <li>{{ row['itemset'] }} (Support: {{ row['sup'] }}%)</li>
+        {% endfor %}
+    </ul>
+
+    <p>Frequent Itemsets (2-itemsets):</p>
+    <ul>
+        {% for _, row in freq_itemset2.iterrows() %}
+            <li>{{ row['itemset'] }} (Support: {{ row['sup'] }}%)</li>
+        {% endfor %}
+    </ul>
+
+    <a href="/">Go back</a>
+</body>
+</html>

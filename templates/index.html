@@ -1,0 +1,40 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <title>Bootstrap Example</title> 
+    <meta charset="utf-8"> 
+    <meta name="viewport" 
+        content="width=device-width, initial-scale=1"> 
+    <link rel="stylesheet" href= 
+"https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css"> 
+    <script src= 
+"https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"> 
+    </script> 
+    <script src= 
+"https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"> 
+    </script> 
+</head> 
+<body> 
+    <div class="container" style="color:green"> 
+        <h1>Apriori Website</h1> 
+    </div>
+    <div class="container">
+        <h4>Check Iteration</h4>
+        <br>
+        <form action="/analyze" method="post">
+        <label for="support_threshold">Enter support threshold:</label>
+        <input class="form-control" type="number" name="support_threshold" step="0.01" required>
+        <br>
+        <label for="support_threshold">Enter Product:</label>
+        <input class="form-control" placeholder="Enter product" name="product">
+        <br>
+        <label for="pwd">Confidence :</label> 
+        <input  class="form-control" placeholder="Enter Confidence" name="Confidence">  
+        <br>
+        <button type="submit">Analyze</button>
+        
+    </form>
+    </div>
+    
+</body>
+</html>
